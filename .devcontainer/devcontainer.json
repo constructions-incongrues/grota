@@ -15,7 +15,7 @@
 		},
 		"ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
 			"upgradePackages": true,
-			"packages": "golang"
+			"packages": "golang,zsh"
 		}
 	},
 
