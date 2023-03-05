@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://grota.resterdign.net/sitemap.xml
