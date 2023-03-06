@@ -2,6 +2,7 @@ backend:
   branch: main
   name: git-gateway
   squash_merges: true
+  local_backend: true
 collections:
 - create: true
   fields:
